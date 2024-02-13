@@ -1,0 +1,411 @@
+.delectusAutAutem {
+  position: relative;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.privacyPolicy {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+}
+.laboriosamMollitiaEt {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.parentCompleted {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+}
+.quiUllamRatione {
+  position: relative;
+  font-size: 16px;
+  display: inline-block;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+  max-width: 100%;
+}
+.dataAccess {
+  align-self: stretch;
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ededed;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+  max-width: 100%;
+  white-space: nowrap;
+}
+.illoExpeditaConsequatur {
+  position: relative;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.consentConfirmation {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+}
+.quoAdipisciEnim {
+  position: relative;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.optionsMenu {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+}
+.molestiaePerspiciatisIpsa {
+  position: relative;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.persistentCookies {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+}
+.illoEstRatione {
+  position: relative;
+  font-size: 16px;
+  display: inline-block;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+  max-width: 100%;
+}
+.majorDataProcessing {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+  max-width: 100%;
+}
+.veroRerumTemporibus {
+  position: relative;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.verificationChecks {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+}
+.etDoloremqueNulla {
+  position: relative;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.dataFrameQuasivariants {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+}
+.delectusAutAutem1 {
+  position: relative;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.frameVoluptatemQuia {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+}
+.delectusAutAutem2 {
+  position: relative;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.dataFrameDelectusAutem {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+}
+.delectusAutAutem3 {
+  position: relative;
+  font-size: 16px;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.frameMollitiaEtEnim {
+  align-self: stretch;
+  border-bottom: 1px solid #ededed;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+  z-index: 1;
+}
+.delectusAutAutem4 {
+  width: 151px;
+  flex: 1;
+  position: relative;
+  font-size: 16px;
+  display: inline-block;
+  font-family: "Open Sans";
+  color: #000;
+  text-align: left;
+}
+.dataFrameIpsaPerspiciatis {
+  align-self: stretch;
+  height: 51px;
+  border-bottom: 1px solid #ededed;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 16px 24px;
+  z-index: 2;
+}
+.subFrameA,
+.todosList {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.subFrameA {
+  margin: 0;
+  background-color: #fff;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.todosList {
+  height: 631px;
+  overflow-y: auto;
+  flex-direction: row;
+  min-width: 313px;
+}
+.parentFrameRoot,
+.vectorArrow {
+  border-radius: 8px;
+  overflow: hidden;
+}
+.parentFrameRoot {
+  align-self: stretch;
+  width: 7px;
+  position: relative;
+  background-color: #9b9b9b;
+  flex-shrink: 0;
+}
+.vectorArrow {
+  height: 623px;
+  background-color: #eae8e8;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 561px;
+  box-sizing: border-box;
+}
+.figmaWorkspaceIcon {
+  height: 631px;
+  width: 1px;
+  position: relative;
+}
+.title {
+  font-family: "Open Sans";
+}
+.quiaOmnis,
+.titleQuiUllamRationeQuibu {
+  margin: 0;
+}
+.span {
+  font-family: "Josefin Sans";
+}
+.userId2 {
+  margin: 0;
+  font-family: "Open Sans";
+}
+.delete,
+.titleQuiUllamContainer {
+  position: relative;
+  display: inline-block;
+}
+.titleQuiUllamContainer {
+  width: 386px;
+  height: 57px;
+  max-width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.delete {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: "Noto Serif";
+  color: #fff;
+  text-align: center;
+}
+.parentFrameDelete {
+  border-radius: 8px;
+  background-color: #ff4c4c;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+}
+.completed {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: "Noto Serif";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.childFrameNoID {
+  border-radius: 8px;
+  background-color: #0b8a00;
+  flex-direction: row;
+  padding: 8px 16px;
+}
+.childFrameNoID,
+.completedIconFrame,
+.titleFrame,
+.todosList1 {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.completedIconFrame {
+  width: 308px;
+  flex-direction: row;
+  padding: 0 20px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.titleFrame,
+.todosList1 {
+  max-width: 100%;
+}
+.todosList1 {
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  min-width: 313px;
+  min-height: 631px;
+}
+.titleFrame {
+  width: 969px;
+  border-radius: 16px;
+  background-color: #fff;
+  box-shadow: 4px 4px 10px 10px rgba(0, 0, 0, 0.05);
+  flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: "Josefin Sans";
+}
+@media screen and (max-width: 1000px) {
+  .titleFrame {
+    width: calc(100% - 40px);
+  }
+}
+@media screen and (max-width: 725px) {
+  .vectorArrow {
+    width: 100%;
+    height: 7px;
+    padding-bottom: 365px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .todosList1 {
+    gap: 32px;
+  }
+}
